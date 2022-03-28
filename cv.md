@@ -1,11 +1,11 @@
 
 # Aliaksei Palityka
 
-****
+
 
 ## Contact Info
 
-****
+
 
 * E-mail: a.polityko@mail.ru;
 * Discord: [Oscarishe](https://discord.com/users/278415841802977280);
@@ -15,7 +15,7 @@
 
 ## My Skills
 
-****
+
 
 * HTML5;
 * CSS3;
@@ -27,7 +27,7 @@
 
 ## Code examples 
 
-****
+
 
 > The goal of this exercise is to convert a string to a new string where each character in the new string is "(" if that character appears only once in the original string, or ")" if that character appears more than once in the original string. Ignore capitalization when determining if a character is a duplicate.
 
@@ -51,25 +51,25 @@ function duplicateEncode(word){
 
 ## My experience 
 
-****
+
 
 Creating front-end side of samp-leader.ru (project was closed in 2018), which provides different services to San Andreas Multiplayer players. Also in this project, I was responsible for website design, business analysis, copywriting and social media marketing.
 
 ## Education 
 
-****
+
 
 * Belarusian State University of Informatics and Radioelectronics
-+ Faculty of Engineering and Economics
-- Bachelor, 2021
+    + Faculty of Engineering and Economics
+        - Bachelor, 2021
 
 * HTMLAcademy courses ([profile](https://htmlacademy.ru/profile/id107318))
-+ Basics and subscription advanced courses
+    + Basics and subscription advanced courses
 
 
 ## Language skills
 
-****
+
 
 * Russian: native speaker;
 * Belarusian: native speaker;
