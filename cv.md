@@ -11,7 +11,7 @@
 * Discord: [Oscarishe](https://discord.com/users/278415841802977280);
 * GitHub: [Oscarishe](https://github.com/oscarishe).
 
-* Location: Minsk, Belarus(GMT+3)
+Location: Minsk, Belarus(GMT+3)
 
 ## My Skills
 
@@ -60,11 +60,11 @@ Creating front-end side of samp-leader.ru (project was closed in 2018), which pr
 
 
 * Belarusian State University of Informatics and Radioelectronics
-    + Faculty of Engineering and Economics
-        - Bachelor, 2021
+  + Faculty of Engineering and Economics
+      - Bachelor, 2021
 
 * HTMLAcademy courses ([profile](https://htmlacademy.ru/profile/id107318))
-    + Basics and subscription advanced courses
+  + Basics and subscription advanced courses
 
 
 ## Language skills
