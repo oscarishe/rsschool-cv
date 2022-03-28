@@ -59,12 +59,9 @@ Creating front-end side of samp-leader.ru (project was closed in 2018), which pr
 
 
 
-* Belarusian State University of Informatics and Radioelectronics
-  + Faculty of Engineering and Economics
-      - Bachelor, 2021
+* Belarusian State University of Informatics and Radioelectronics (Faculty of Engineering and Economics bachelor), 2021;
+* HTMLAcademy courses (Basics and subscription advanced courses) - ([profile](https://htmlacademy.ru/profile/id107318))
 
-* HTMLAcademy courses ([profile](https://htmlacademy.ru/profile/id107318))
-  + Basics and subscription advanced courses
 
 
 ## Language skills
