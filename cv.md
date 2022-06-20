@@ -20,6 +20,8 @@ Location: Minsk, Belarus(GMT+3)
 * HTML5;
 * CSS3;
 * JavaScript (Fundamentals, Basic of React Framework);
+* SQL;
+* MongoDB;
 * Java Spring Framework;
 * Git;
 * Design Patterns;
