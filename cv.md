@@ -19,12 +19,14 @@ Location: Minsk, Belarus(GMT+3)
 
 * HTML5;
 * CSS3;
-* JavaScript (Fundamentals, Basic of React Framework);
+* JavaScript;
 * SQL;
 * MongoDB;
+* Node.js;
 * Java Spring Framework;
 * Git;
 * Design Patterns;
+* OOP;
 * IDE: WebStorm, IntelliJ IDEA, NetBeans, Visual Studio, Sublime.
 
 ## Code examples 
